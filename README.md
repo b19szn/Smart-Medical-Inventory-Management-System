@@ -55,7 +55,7 @@
 | :--- | :--- |
 | **Sabah Maryam** | 22201484 |
 | **Shezan Mahmud** | 21301563 |
-| **Isat Mahmud Evan** | 21301655 |
+| **Izaz Mahmud Evan** | 21301655 |
 
 ---
 
