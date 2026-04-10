@@ -21,6 +21,29 @@
 
 ---
 
+## 📽️ Project Screenshots
+
+<p align="center">
+  <img src="public/images/screenshots/login.png" width="45%" alt="Login Page">
+  <img src="public/images/screenshots/dashboard.png" width="45%" alt="Dashboard">
+</p>
+<p align="center">
+  <img src="public/images/screenshots/inventory.png" width="45%" alt="Inventory Module">
+  <img src="public/images/screenshots/activity.png" width="45%" alt="Activity Logs">
+</p>
+
+---
+
+## 👥 Meet the Team (Group 8)
+
+| Name | Student ID |
+| :--- | :--- |
+| **Sabah Maryam** | 22201484 |
+| **Shezan Mahmud** | 21301563 |
+| **Isat Mahmud Evan** | 21301655 |
+
+---
+
 ## 🛠️ Tech Stack
 
 -   **Backend**: Laravel 8+ (PHP 8.2 compatible)
