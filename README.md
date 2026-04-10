@@ -21,16 +21,35 @@
 
 ---
 
-## 📽️ Project Screenshots
+## 📸 System Showcase
 
-<p align="center">
-  <img src="public/images/screenshots/login.png" width="45%" alt="Login Page">
-  <img src="public/images/screenshots/dashboard.png" width="45%" alt="Dashboard">
-</p>
-<p align="center">
-  <img src="public/images/screenshots/inventory.png" width="45%" alt="Inventory Module">
-  <img src="public/images/screenshots/activity.png" width="45%" alt="Activity Logs">
-</p>
+### 🖥️ Platform Overview
+| Landing Page | Key Features Grid |
+| :---: | :---: |
+| ![Landing Page](public/images/screenshots/landing.png) | ![Features Grid](public/images/screenshots/features_grid.png) |
+
+### 📊 Management Dashboard
+| Visual Analytics Overview | Recent Activity Feed |
+| :---: | :---: |
+| ![Dashboard](public/images/screenshots/dashboard_overview.png) | ![Activity Logs](public/images/screenshots/recent_activity.png) |
+
+### 📦 Core Inventory Features
+| Inventory Management | Inter-Hospital Transfers |
+| :---: | :---: |
+| ![Inventory Module](public/images/screenshots/inventory_management.png) | ![Transfers](public/images/screenshots/transfer_management.png) |
+
+### 📄 Document & Content control
+| Document Storage | Frontend Content Editor |
+| :---: | :---: |
+| ![Document Storage](public/images/screenshots/document_storage.png) | ![Content Management](public/images/screenshots/content_management.png) |
+
+### 🔐 Security & Access
+| Professional Login | User Registration |
+| :---: | :---: |
+| ![Login Page](public/images/screenshots/login.png) | ![Registration](public/images/screenshots/registration.png) |
+
+> [!NOTE]
+> All screenshots above are captured directly from the system as showcased in the **Final Project Report (PDF)** to demonstrate the live functionality and premium UI design.
 
 ---
 
