@@ -29,27 +29,23 @@
 | ![Landing Page](public/images/screenshots/landing.png) | ![Features Grid](public/images/screenshots/features_grid.png) |
 
 ### 📊 Management Dashboard
-| Visual Analytics Overview | Recent Activity Feed |
-| :---: | :---: |
-| ![Dashboard](public/images/screenshots/dashboard_overview.png) | ![Activity Logs](public/images/screenshots/recent_activity.png) |
+| Dashboard Overview | SuperAdmin Control Panel | Recent Activity Feed |
+| :---: | :---: | :---: |
+| ![Dashboard](public/images/screenshots/dashboard_overview.png) | ![SuperAdmin Panel](public/images/screenshots/superadmin_panel.png) | ![Activity Logs](public/images/screenshots/recent_activity.png) |
 
-### 📦 Core Inventory Features
+### 📦 Operational Controls
 | Inventory Management | Inter-Hospital Transfers |
 | :---: | :---: |
 | ![Inventory Module](public/images/screenshots/inventory_management.png) | ![Transfers](public/images/screenshots/transfer_management.png) |
+| **Document Storage** | **Professional Export Center** |
+| ![Document Storage](public/images/screenshots/document_storage.png) | ![Export Center](public/images/screenshots/export_center.png) |
 
-### 📄 Document & Content control
-| Document Storage | Frontend Content Editor |
-| :---: | :---: |
-| ![Document Storage](public/images/screenshots/document_storage.png) | ![Content Management](public/images/screenshots/content_management.png) |
-
-### 🔐 Security & Access
+### 🔐 Security & Customization
 | Professional Login | User Registration |
 | :---: | :---: |
 | ![Login Page](public/images/screenshots/login.png) | ![Registration](public/images/screenshots/registration.png) |
-
-> [!NOTE]
-> All screenshots above are captured directly from the system as showcased in the **Final Project Report (PDF)** to demonstrate the live functionality and premium UI design.
+| **Content Editor (Hero)** | **Content Editor (Footer)** |
+| ![Content Management](public/images/screenshots/content_management.png) | ![Content Management Footer](public/images/screenshots/content_management_footer.png) |
 
 ---
 
